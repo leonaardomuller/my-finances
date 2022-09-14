@@ -23,6 +23,14 @@
       "category": "Compra",
       "price": 1800,
       "createdAt": "2022-09-11T11:33:37.699Z"
+    },
+    {
+      "description": "Macbook Air M1",
+      "category": "Compra",
+      "price": 7800,
+      "type": "outcome",
+      "createdAt": "2022-09-14T04:38:24.276Z",
+      "id": 4
     }
   ]
 }
